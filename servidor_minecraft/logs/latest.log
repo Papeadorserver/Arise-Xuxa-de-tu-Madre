@@ -965,3 +965,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 20:10:35.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
 [17Apr2025 20:12:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
 [17Apr2025 20:20:44.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [No Step on Snake]
+[17Apr2025 20:25:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 20:28:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Rigged from the Start]
+[17Apr2025 20:28:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Tarantula Hawk
+[17Apr2025 20:29:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[17Apr2025 20:30:19.655] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[17Apr2025 20:30:24.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:51051] logged in with entity id 17432 at (-1259.14144574938, 67.0, 2275.086377163521)
+[17Apr2025 20:30:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
