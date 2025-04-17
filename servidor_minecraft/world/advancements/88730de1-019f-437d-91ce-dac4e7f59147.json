@@ -48,6 +48,7 @@
       "minecraft:snowy_plains": "2025-04-17 06:40:32 +0000",
       "minecraft:forest": "2025-04-17 05:33:40 +0000",
       "minecraft:desert": "2025-04-17 06:55:16 +0000",
+      "minecraft:jungle": "2025-04-17 20:17:46 +0000",
       "minecraft:snowy_beach": "2025-04-17 06:42:58 +0000",
       "minecraft:windswept_savanna": "2025-04-17 19:41:18 +0000",
       "minecraft:warm_ocean": "2025-04-17 07:17:10 +0000",
@@ -2227,6 +2228,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-17 20:17:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-17 20:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-17 20:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-17 19:43:19 +0000"
@@ -2266,6 +2285,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-17 20:01:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-17 20:17:15 +0000"
     },
     "done": true
   },
@@ -2311,6 +2336,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-04-17 20:21:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-17 20:01:56 +0000"
@@ -2350,6 +2381,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-17 20:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-17 20:17:15 +0000"
     },
     "done": true
   },
@@ -2428,6 +2465,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-04-17 19:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-17 20:17:15 +0000"
     },
     "done": true
   },
