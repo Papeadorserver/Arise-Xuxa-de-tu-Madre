@@ -953,3 +953,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 19:24:48.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.426s)! For help, type "help"
 [17Apr2025 19:24:48.492] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [17Apr2025 19:24:48.521] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[17Apr2025 19:36:39.656] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[17Apr2025 19:36:45.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:54775] logged in with entity id 139 at (-1300.6917800187239, 63.0, 2640.653547008972)
+[17Apr2025 19:36:45.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[17Apr2025 19:39:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Not Today, Thank You]
+[17Apr2025 19:42:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Easy]
