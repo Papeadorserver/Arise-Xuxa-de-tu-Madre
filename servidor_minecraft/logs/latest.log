@@ -955,3 +955,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 23:17:36.919] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
 [17Apr2025 23:17:44.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:60993] logged in with entity id 147 at (-1213.669304745304, 132.0, 3170.3605805542443)
 [17Apr2025 23:17:44.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[17Apr2025 23:33:49.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[17Apr2025 23:33:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[17Apr2025 23:34:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Apr2025 23:34:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 23:34:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 23:34:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 23:34:05.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2025 23:34:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2025 23:34:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2025 23:34:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 23:34:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 23:34:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 23:34:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Apr2025 23:34:06.620] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
