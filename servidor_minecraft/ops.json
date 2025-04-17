@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "88730de1-019f-437d-91ce-dac4e7f59147",
+    "name": "Mandester",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
