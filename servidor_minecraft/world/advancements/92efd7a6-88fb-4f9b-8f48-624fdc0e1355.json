@@ -43,6 +43,7 @@
       "minecraft:dripstone_caves": "2025-04-17 05:47:56 +0000",
       "minecraft:forest": "2025-04-17 05:38:46 +0000",
       "minecraft:desert": "2025-04-17 06:55:36 +0000",
+      "minecraft:warm_ocean": "2025-04-17 20:46:35 +0000",
       "minecraft:flower_forest": "2025-04-17 06:55:01 +0000",
       "minecraft:meadow": "2025-04-17 05:50:24 +0000",
       "minecraft:plains": "2025-04-17 05:42:55 +0000"
@@ -1679,9 +1680,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 20:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-17 20:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-17 20:54:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-17 20:47:22 +0000"
     },
     "done": true
   },
@@ -1700,6 +1725,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-04-17 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-17 20:47:22 +0000"
     },
     "done": true
   },
