@@ -959,3 +959,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 19:39:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Not Today, Thank You]
 [17Apr2025 19:42:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Easy]
 [17Apr2025 19:58:20.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Take Aim]
+[17Apr2025 20:09:08.538] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[17Apr2025 20:09:13.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:46839] logged in with entity id 6398 at (-1658.2895116172156, 71.0, 2016.699999988079)
+[17Apr2025 20:09:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[17Apr2025 20:10:35.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[17Apr2025 20:12:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
