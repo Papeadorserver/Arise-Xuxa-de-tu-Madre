@@ -467,10 +467,12 @@
     "criteria": {
       "cooked_mutton": "2025-04-17 06:15:19 +0000",
       "cooked_beef": "2025-04-17 20:13:48 +0000",
+      "baked_potato": "2025-04-18 00:38:50 +0000",
       "potato": "2025-04-18 00:30:40 +0000",
       "mutton": "2025-04-17 05:52:09 +0000",
       "bread": "2025-04-17 05:56:20 +0000",
       "rotten_flesh": "2025-04-17 05:52:20 +0000",
+      "cooked_rabbit": "2025-04-18 00:37:22 +0000",
       "cooked_chicken": "2025-04-17 05:46:59 +0000",
       "mushroom_stew": "2025-04-17 05:55:58 +0000",
       "rabbit_stew": "2025-04-17 06:07:20 +0000"
@@ -2791,6 +2793,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-18 00:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 00:38:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-18 00:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-04-18 00:19:40 +0000"
@@ -2821,9 +2841,51 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-18 00:37:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-18 00:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-18 00:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 00:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-18 00:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-18 00:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 00:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 00:38:42 +0000"
     },
     "done": true
   },

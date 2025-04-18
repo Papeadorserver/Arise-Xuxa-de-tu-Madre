@@ -68,6 +68,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-18 00:39:53 +0000",
       "cooked_mutton": "2025-04-17 06:06:21 +0000",
       "cooked_beef": "2025-04-17 06:24:11 +0000",
       "apple": "2025-04-17 06:10:33 +0000",
@@ -2625,6 +2626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-18 00:33:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-04-18 00:25:54 +0000"
@@ -2634,6 +2641,12 @@
   "dungeons_and_combat:i_dont_think_you_need_it": {
     "criteria": {
       "i_dont_think_you_need_it_0": "2025-04-18 00:30:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:is_this_my_size": {
+    "criteria": {
+      "is_this_my_size_0": "2025-04-18 00:42:38 +0000"
     },
     "done": true
   },
