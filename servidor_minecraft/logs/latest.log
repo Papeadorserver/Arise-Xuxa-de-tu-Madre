@@ -6,3 +6,5 @@
 [18Apr2025 00:10:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
 [18Apr2025 00:13:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Spider
 [18Apr2025 00:17:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]
+[18Apr2025 00:24:47.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/395, l='ServerLevel[world]', x=-2062.49, y=65.00, z=2003.00] died, message: 'Farmer was slain by Guster'
+[18Apr2025 00:30:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [I Dont Think You Need It]

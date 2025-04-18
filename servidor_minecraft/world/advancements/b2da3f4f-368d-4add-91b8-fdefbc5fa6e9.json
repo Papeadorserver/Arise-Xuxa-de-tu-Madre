@@ -467,6 +467,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-17 06:15:19 +0000",
       "cooked_beef": "2025-04-17 20:13:48 +0000",
+      "potato": "2025-04-18 00:30:40 +0000",
       "mutton": "2025-04-17 05:52:09 +0000",
       "bread": "2025-04-17 05:56:20 +0000",
       "rotten_flesh": "2025-04-17 05:52:20 +0000",
@@ -2787,6 +2788,42 @@
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-04-17 20:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-18 00:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-18 00:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-18 00:31:45 +0000"
     },
     "done": true
   },
