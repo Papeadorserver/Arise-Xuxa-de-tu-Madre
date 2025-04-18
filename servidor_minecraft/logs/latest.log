@@ -15,3 +15,11 @@
 [18Apr2025 00:44:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Forgotten Sands]
 [18Apr2025 00:45:49.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Is This My Size?]
 [18Apr2025 00:47:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Ammit
+[18Apr2025 00:54:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Ammit
+[18Apr2025 00:54:56.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[18Apr2025 00:54:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[18Apr2025 00:57:10.626] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[18Apr2025 00:57:14.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:41535] logged in with entity id 32629 at (-1694.2646273135647, 72.0, 2081.903042037936)
+[18Apr2025 00:57:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[18Apr2025 01:01:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Ammit
+[18Apr2025 01:03:10.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Isn't It Iron Pick]
