@@ -1908,5 +1908,11 @@
     },
     "done": true
   },
+  "dungeons_and_combat:is_this_my_size": {
+    "criteria": {
+      "is_this_my_size_0": "2025-04-18 00:45:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

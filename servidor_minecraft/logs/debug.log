@@ -6695,3 +6695,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 00:42:38.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Is This My Size?]
 [18Apr2025 00:43:12.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 00:43:12.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:44:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Forgotten Sands]
+[18Apr2025 00:45:49.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Is This My Size?]
+[18Apr2025 00:47:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Ammit
+[18Apr2025 00:48:12.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:48:12.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:53:12.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:53:12.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

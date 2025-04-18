@@ -2632,6 +2632,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:forgotten_sands": {
+    "criteria": {
+      "forgotten_sands_0": "2025-04-18 00:44:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-04-18 00:25:54 +0000"
