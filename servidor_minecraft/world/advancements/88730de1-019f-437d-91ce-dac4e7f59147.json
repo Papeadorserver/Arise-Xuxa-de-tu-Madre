@@ -2601,6 +2601,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-04-18 05:21:07 +0000",
+      "rice": "2025-04-18 05:11:13 +0000",
       "sugar_cane": "2025-04-17 20:21:53 +0000"
     },
     "done": false
@@ -3187,9 +3189,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-04-18 03:04:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 05:21:02 +0000"
     },
     "done": true
   },
@@ -3316,6 +3330,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 05:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-18 05:11:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-18 04:51:54 +0000"
@@ -3334,9 +3360,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-18 03:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 05:18:42 +0000"
     },
     "done": true
   },
@@ -3361,6 +3399,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-18 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-18 05:11:54 +0000"
     },
     "done": true
   },
@@ -3568,6 +3612,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-18 05:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 01:54:16 +0000"
@@ -3577,6 +3627,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-18 04:51:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
     },
     "done": true
   },
@@ -3742,6 +3798,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-18 05:13:19 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
     "criteria": {
       "hoglin_sirloin": "2025-04-18 03:16:28 +0000"
@@ -3775,6 +3837,12 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-18 05:11:54 +0000"
     },
     "done": true
   },
@@ -3880,6 +3948,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 05:21:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-04-18 03:16:28 +0000"
@@ -3919,6 +3993,12 @@
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-04-18 03:57:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
     },
     "done": true
   },
@@ -4021,6 +4101,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-18 04:51:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-04-18 05:14:16 +0000"
     },
     "done": true
   },
@@ -4150,15 +4236,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 01:54:16 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-18 05:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-18 03:13:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-04-18 05:14:16 +0000"
     },
     "done": true
   },
@@ -4219,6 +4323,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-18 04:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 05:11:54 +0000"
     },
     "done": true
   },
