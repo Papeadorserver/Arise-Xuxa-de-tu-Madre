@@ -26,3 +26,13 @@
 [18Apr2025 01:14:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to Mandester]
 [18Apr2025 01:20:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Alex's Caves]
 [18Apr2025 01:21:02.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [It Belongs in a Museum]
+[18Apr2025 01:27:27.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[18Apr2025 01:27:27.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[18Apr2025 01:27:27.116] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Apr2025 01:27:43.866] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[18Apr2025 01:27:55.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:49173] logged in with entity id 46714 at (-1270.7026066082399, -3.0, 2072.699999988079)
+[18Apr2025 01:27:55.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[18Apr2025 01:33:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [We Need to Go Deeper]
+[18Apr2025 01:33:24.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester moved too quickly! -8.779558316238763,3.419999986886978,4.6331595940359875
+[18Apr2025 01:33:24.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
+[18Apr2025 01:38:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Hot Stuff]
