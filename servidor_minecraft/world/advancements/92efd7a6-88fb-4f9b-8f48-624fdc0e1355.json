@@ -645,7 +645,9 @@
       "minecraft:spider": "2025-04-18 01:14:52 +0000",
       "minecraft:creeper": "2025-04-18 01:24:31 +0000",
       "minecraft:husk": "2025-04-17 20:36:17 +0000",
-      "minecraft:zombie": "2025-04-17 05:49:38 +0000"
+      "minecraft:enderman": "2025-04-18 04:29:46 +0000",
+      "minecraft:zombie": "2025-04-17 05:49:38 +0000",
+      "minecraft:drowned": "2025-04-18 04:33:53 +0000"
     },
     "done": false
   },
@@ -2341,6 +2343,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-18 04:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-18 01:37:20 +0000"
@@ -2548,6 +2556,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-18 01:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-18 04:28:52 +0000"
     },
     "done": true
   },
