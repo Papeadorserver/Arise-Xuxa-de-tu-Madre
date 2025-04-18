@@ -849,9 +849,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-18 03:17:00 +0000",
       "minecraft:skeleton": "2025-04-17 05:58:07 +0000",
       "minecraft:spider": "2025-04-17 06:15:41 +0000",
       "minecraft:creeper": "2025-04-17 06:50:43 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 03:13:16 +0000",
       "minecraft:husk": "2025-04-17 06:50:16 +0000",
       "minecraft:enderman": "2025-04-18 02:19:26 +0000",
       "minecraft:zombie": "2025-04-17 05:52:00 +0000"
@@ -3369,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-18 03:17:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-04-18 02:07:01 +0000"
@@ -4563,6 +4571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 03:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 01:47:50 +0000"
@@ -4707,6 +4721,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-18 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 01:47:50 +0000"
@@ -4791,6 +4811,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-18 03:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 01:38:52 +0000"
@@ -4836,6 +4862,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-04-18 02:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 03:17:27 +0000"
     },
     "done": true
   },

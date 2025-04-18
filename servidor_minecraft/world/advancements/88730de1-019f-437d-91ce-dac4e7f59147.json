@@ -75,6 +75,7 @@
       "apple": "2025-04-17 06:10:33 +0000",
       "bread": "2025-04-17 05:39:00 +0000",
       "golden_apple": "2025-04-18 02:00:28 +0000",
+      "rotten_flesh": "2025-04-18 03:15:10 +0000",
       "melon_slice": "2025-04-18 02:22:59 +0000"
     },
     "done": false
@@ -795,10 +796,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-18 03:19:47 +0000",
       "minecraft:skeleton": "2025-04-17 06:09:17 +0000",
+      "minecraft:hoglin": "2025-04-18 03:16:24 +0000",
       "minecraft:spider": "2025-04-17 06:12:02 +0000",
       "minecraft:creeper": "2025-04-17 19:58:23 +0000",
       "minecraft:phantom": "2025-04-18 02:34:46 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 03:14:56 +0000",
       "minecraft:husk": "2025-04-17 07:16:25 +0000",
       "minecraft:enderman": "2025-04-18 00:05:48 +0000",
       "minecraft:zombie": "2025-04-17 05:52:10 +0000",
@@ -3141,6 +3145,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-04-18 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-04-18 03:04:00 +0000"
@@ -3195,6 +3205,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/transportation/hoglin_trophy": {
+    "criteria": {
+      "has_hoglin_hide": "2025-04-18 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-18 03:02:59 +0000",
@@ -3228,6 +3244,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-18 03:16:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
@@ -3252,6 +3274,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/raw_stuffed_hoglin": {
+    "criteria": {
+      "has_hoglin_hide": "2025-04-18 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-18 02:57:08 +0000"
@@ -3267,6 +3295,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 03:04:00 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-18 03:16:28 +0000"
     },
     "done": true
   },
@@ -3432,6 +3466,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-04-18 03:16:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-18 02:57:12 +0000"
@@ -3501,6 +3541,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-18 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-18 03:16:28 +0000"
     },
     "done": true
   },
@@ -3636,6 +3682,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-18 03:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-18 02:50:21 +0000"
@@ -3651,6 +3703,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-18 03:13:39 +0000"
     },
     "done": true
   },
