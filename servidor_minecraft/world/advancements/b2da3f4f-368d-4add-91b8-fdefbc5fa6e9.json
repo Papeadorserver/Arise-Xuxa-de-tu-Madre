@@ -43,11 +43,13 @@
       "minecraft:wooded_badlands": "2025-04-18 01:37:40 +0000",
       "minecraft:badlands": "2025-04-18 01:37:27 +0000",
       "minecraft:savanna_plateau": "2025-04-17 06:45:40 +0000",
+      "minecraft:beach": "2025-04-18 04:06:25 +0000",
       "minecraft:sparse_jungle": "2025-04-17 20:10:52 +0000",
       "minecraft:river": "2025-04-17 05:53:03 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:41:51 +0000",
       "minecraft:forest": "2025-04-17 05:40:05 +0000",
       "minecraft:desert": "2025-04-17 06:47:54 +0000",
+      "minecraft:jungle": "2025-04-18 04:02:20 +0000",
       "minecraft:windswept_savanna": "2025-04-17 20:10:35 +0000",
       "minecraft:warm_ocean": "2025-04-17 07:00:47 +0000",
       "minecraft:flower_forest": "2025-04-17 05:51:31 +0000",
@@ -3008,6 +3010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-18 04:05:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-04-18 01:13:29 +0000"
@@ -3074,6 +3082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 04:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 02:15:25 +0000"
@@ -3083,6 +3097,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-18 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -3137,6 +3157,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 01:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-18 03:52:31 +0000"
     },
     "done": true
   },
@@ -3305,6 +3331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-18 01:49:37 +0000"
@@ -3320,6 +3352,12 @@
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -3344,6 +3382,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-04-18 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -3551,9 +3595,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-18 01:08:50 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-04-18 03:52:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:31 +0000"
     },
     "done": true
   },
@@ -3635,6 +3697,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-04-18 01:13:29 +0000"
@@ -3713,6 +3781,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-04-18 03:52:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:46:18 +0000"
@@ -3740,6 +3814,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -3800,6 +3880,12 @@
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-04-18 03:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -3905,6 +3991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-18 03:52:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:46:18 +0000"
@@ -3965,6 +4057,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-04-18 01:20:39 +0000"
@@ -3974,6 +4072,12 @@
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-04-18 03:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -4103,6 +4207,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-18 01:33:30 +0000"
@@ -4181,6 +4291,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-18 04:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-18 01:46:18 +0000"
@@ -4223,6 +4339,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-04-18 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-04-18 03:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 02:56:26 +0000"
@@ -4244,6 +4372,12 @@
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-04-18 02:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 04:01:30 +0000"
     },
     "done": true
   },
@@ -4379,6 +4513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-18 03:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-18 03:05:09 +0000"
@@ -4463,9 +4603,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-04-18 03:55:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:46:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -4502,6 +4654,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-04-18 02:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -4673,6 +4831,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-04-18 03:52:48 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_stove": {
     "criteria": {
       "has_nether_brick": "2025-04-18 03:04:00 +0000"
@@ -4700,6 +4864,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-18 01:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
@@ -4781,6 +4951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-18 03:52:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-04-18 03:41:29 +0000"
@@ -4808,6 +4984,12 @@
   "nethersdelight:recipes/food/nether_skewer": {
     "criteria": {
       "has_propelpearl": "2025-04-18 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-18 04:09:05 +0000"
     },
     "done": true
   },
@@ -4850,6 +5032,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-18 01:08:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-04-18 03:55:20 +0000"
     },
     "done": true
   },
@@ -4943,6 +5131,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-04-18 03:45:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 01:09:40 +0000"
@@ -4964,6 +5158,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-04-18 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-04-18 03:49:04 +0000"
     },
     "done": true
   },
@@ -5060,6 +5260,12 @@
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2025-04-18 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-18 03:45:33 +0000"
     },
     "done": true
   },
