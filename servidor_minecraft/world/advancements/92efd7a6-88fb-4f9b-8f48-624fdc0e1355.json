@@ -644,6 +644,7 @@
       "minecraft:skeleton": "2025-04-17 06:10:57 +0000",
       "minecraft:spider": "2025-04-18 01:14:52 +0000",
       "minecraft:creeper": "2025-04-18 01:24:31 +0000",
+      "minecraft:phantom": "2025-04-18 04:47:16 +0000",
       "minecraft:husk": "2025-04-17 20:36:17 +0000",
       "minecraft:enderman": "2025-04-18 04:29:46 +0000",
       "minecraft:zombie": "2025-04-17 05:49:38 +0000",
@@ -2454,6 +2455,12 @@
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-18 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 04:38:57 +0000"
     },
     "done": true
   },
