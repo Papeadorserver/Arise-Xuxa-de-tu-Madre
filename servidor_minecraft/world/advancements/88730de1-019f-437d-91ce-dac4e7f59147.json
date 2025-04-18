@@ -3279,6 +3279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-04-18 05:43:19 +0000"
@@ -3321,9 +3327,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-04-18 03:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -3372,6 +3390,12 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-04-18 03:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -3432,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-18 05:11:54 +0000"
@@ -3489,6 +3519,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-18 03:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -3630,15 +3666,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-04-18 05:43:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-04-18 06:56:28 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-18 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -3690,9 +3750,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-04-18 01:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -3948,15 +4020,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/book_from_canvas": {
     "criteria": {
       "has_canvas": "2025-04-18 06:16:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -4152,6 +4242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-18 01:38:37 +0000"
@@ -4173,6 +4269,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -4257,6 +4359,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-04-18 03:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -4404,6 +4512,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-04-18 05:43:19 +0000"
@@ -4431,6 +4545,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -4548,6 +4668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-04-18 06:22:51 +0000"
@@ -4578,6 +4704,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-04-18 06:55:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-04-18 05:58:42 +0000"
@@ -4599,6 +4731,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-04-18 02:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
@@ -4845,6 +4983,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-18 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-18 06:56:18 +0000"
     },
     "done": true
   },
