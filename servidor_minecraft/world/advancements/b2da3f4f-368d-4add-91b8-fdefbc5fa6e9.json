@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-18 04:13:39 +0000",
       "minecraft:cherry_grove": "2025-04-17 06:42:19 +0000",
       "minecraft:sunflower_plains": "2025-04-17 06:41:54 +0000",
       "minecraft:bamboo_jungle": "2025-04-17 20:10:53 +0000",
@@ -47,6 +48,7 @@
       "minecraft:sparse_jungle": "2025-04-17 20:10:52 +0000",
       "minecraft:river": "2025-04-17 05:53:03 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:41:51 +0000",
+      "minecraft:jagged_peaks": "2025-04-18 04:14:17 +0000",
       "minecraft:forest": "2025-04-17 05:40:05 +0000",
       "minecraft:desert": "2025-04-17 06:47:54 +0000",
       "minecraft:jungle": "2025-04-18 04:02:20 +0000",
@@ -3022,6 +3024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-18 04:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-18 01:08:58 +0000"
@@ -3513,9 +3521,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-04-18 04:22:21 +0000",
       "1": "2025-04-18 02:15:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -3703,6 +3712,12 @@
     },
     "done": true
   },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-04-18 04:24:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-04-18 01:13:29 +0000"
@@ -3712,6 +3727,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-18 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-04-18 04:24:12 +0000"
     },
     "done": true
   },
@@ -4264,6 +4285,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 02:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-18 04:17:58 +0000"
     },
     "done": true
   },
@@ -4873,6 +4900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-18 04:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-18 01:38:52 +0000"
@@ -4918,6 +4951,12 @@
   "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-04-18 03:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-18 04:17:58 +0000"
     },
     "done": true
   },
