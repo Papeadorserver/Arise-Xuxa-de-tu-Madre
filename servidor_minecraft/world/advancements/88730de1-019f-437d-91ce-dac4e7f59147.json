@@ -74,7 +74,8 @@
       "cooked_beef": "2025-04-17 06:24:11 +0000",
       "apple": "2025-04-17 06:10:33 +0000",
       "bread": "2025-04-17 05:39:00 +0000",
-      "golden_apple": "2025-04-18 02:00:28 +0000"
+      "golden_apple": "2025-04-18 02:00:28 +0000",
+      "melon_slice": "2025-04-18 02:22:59 +0000"
     },
     "done": false
   },
@@ -3138,9 +3139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 02:07:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 02:07:11 +0000"
     },
     "done": true
   },
@@ -3264,6 +3277,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-18 02:16:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
@@ -3327,6 +3346,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-18 02:16:03 +0000"
     },
     "done": true
   },

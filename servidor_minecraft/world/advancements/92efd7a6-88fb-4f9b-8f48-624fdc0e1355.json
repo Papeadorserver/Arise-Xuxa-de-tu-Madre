@@ -39,10 +39,12 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-17 06:15:12 +0000",
       "minecraft:sunflower_plains": "2025-04-17 06:54:30 +0000",
+      "minecraft:sparse_jungle": "2025-04-18 02:09:08 +0000",
       "minecraft:river": "2025-04-17 06:08:58 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:47:56 +0000",
       "minecraft:forest": "2025-04-17 05:38:46 +0000",
       "minecraft:desert": "2025-04-17 06:55:36 +0000",
+      "minecraft:windswept_savanna": "2025-04-18 02:07:56 +0000",
       "minecraft:warm_ocean": "2025-04-17 20:46:35 +0000",
       "minecraft:flower_forest": "2025-04-17 06:55:01 +0000",
       "minecraft:meadow": "2025-04-17 05:50:24 +0000",
@@ -1928,6 +1930,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-18 01:37:20 +0000"
@@ -1943,6 +1951,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-18 01:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -2045,6 +2059,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-18 01:37:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -2342,6 +2362,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-18 01:49:10 +0000"
@@ -2456,6 +2482,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-18 02:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-18 01:20:28 +0000"
@@ -2477,6 +2509,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 01:29:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -2567,6 +2605,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-18 01:37:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-18 02:20:59 +0000"
     },
     "done": true
   },
@@ -2753,6 +2797,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-18 01:40:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:20:59 +0000"
     },
     "done": true
   },
