@@ -4,3 +4,5 @@
 [18Apr2025 00:09:58.612] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
 [18Apr2025 00:10:04.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:59309] logged in with entity id 9481 at (-1708.1068507261784, 72.0, 2082.947630152143)
 [18Apr2025 00:10:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[18Apr2025 00:13:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Spider
+[18Apr2025 00:17:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]

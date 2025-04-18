@@ -6673,3 +6673,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 00:10:04.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:59309] logged in with entity id 9481 at (-1708.1068507261784, 72.0, 2082.947630152143)
 [18Apr2025 00:10:04.310] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@64245195 into net.minecraft.network.Connection@554ca4d9
 [18Apr2025 00:10:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[18Apr2025 00:13:12.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:13:12.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:13:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Spider
+[18Apr2025 00:17:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]
+[18Apr2025 00:18:12.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:18:12.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
