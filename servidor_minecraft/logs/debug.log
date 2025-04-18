@@ -7077,3 +7077,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 02:43:15.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 02:43:15.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 02:44:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[18Apr2025 02:47:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Dinner's Served!]
+[18Apr2025 02:48:15.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:48:15.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 02:50:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Ice Bucket Challenge]
+[18Apr2025 02:53:15.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:53:15.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 02:56:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [We Need to Go Deeper]
+[18Apr2025 02:56:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]

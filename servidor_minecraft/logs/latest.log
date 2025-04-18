@@ -57,3 +57,7 @@
 [18Apr2025 02:41:25.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/80464, l='ServerLevel[world]', x=-2059.40, y=64.00, z=1983.17] died, message: 'Nitwit hit the ground too hard'
 [18Apr2025 02:41:35.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/80466, l='ServerLevel[world]', x=-2061.56, y=64.50, z=1999.62] died, message: 'Farmer was slain by Guster'
 [18Apr2025 02:44:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[18Apr2025 02:47:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Dinner's Served!]
+[18Apr2025 02:50:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Ice Bucket Challenge]
+[18Apr2025 02:56:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [We Need to Go Deeper]
+[18Apr2025 02:56:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
