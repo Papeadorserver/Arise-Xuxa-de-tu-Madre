@@ -798,9 +798,11 @@
       "minecraft:skeleton": "2025-04-17 06:09:17 +0000",
       "minecraft:spider": "2025-04-17 06:12:02 +0000",
       "minecraft:creeper": "2025-04-17 19:58:23 +0000",
+      "minecraft:phantom": "2025-04-18 02:34:46 +0000",
       "minecraft:husk": "2025-04-17 07:16:25 +0000",
       "minecraft:enderman": "2025-04-18 00:05:48 +0000",
       "minecraft:zombie": "2025-04-17 05:52:10 +0000",
+      "minecraft:drowned": "2025-04-18 02:37:00 +0000",
       "minecraft:zombie_villager": "2025-04-17 19:39:24 +0000"
     },
     "done": false
@@ -3199,6 +3201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-18 02:37:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
@@ -3334,6 +3342,12 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-18 02:37:40 +0000"
     },
     "done": true
   },

@@ -49,3 +49,11 @@
 [18Apr2025 02:20:52.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Enderman
 [18Apr2025 02:25:05.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Enderman
 [18Apr2025 02:25:33.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[18Apr2025 02:35:37.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[18Apr2025 02:36:20.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/66200, l='ServerLevel[world]', x=-2060.77, y=63.00, z=1970.48] died, message: 'Farmer was slain by Guster'
+[18Apr2025 02:37:23.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Eye of The Storm]
+[18Apr2025 02:39:28.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Not Today, Thank You]
+[18Apr2025 02:40:54.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/80479, l='ServerLevel[world]', x=-2052.81, y=63.00, z=2013.64] died, message: 'Farmer hit the ground too hard'
+[18Apr2025 02:41:25.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/80464, l='ServerLevel[world]', x=-2059.40, y=64.00, z=1983.17] died, message: 'Nitwit hit the ground too hard'
+[18Apr2025 02:41:35.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/80466, l='ServerLevel[world]', x=-2061.56, y=64.50, z=1999.62] died, message: 'Farmer was slain by Guster'
+[18Apr2025 02:44:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
