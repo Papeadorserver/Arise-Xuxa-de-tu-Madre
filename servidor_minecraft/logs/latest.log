@@ -1070,3 +1070,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 06:22:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> encontre un ajolote
 [19Apr2025 07:16:51.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
 [19Apr2025 07:16:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[19Apr2025 07:25:26.791] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[19Apr2025 07:25:32.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:48119] logged in with entity id 34377 at (-1203.1999284729466, 129.0, 3145.6609059507823)
+[19Apr2025 07:25:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
