@@ -2860,6 +2860,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-04-19 05:34:44 +0000",
       "potato": "2025-04-18 00:37:46 +0000",
       "carrot": "2025-04-19 04:04:55 +0000"
     },
@@ -5401,6 +5402,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-19 05:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-04-19 05:07:41 +0000"
@@ -5410,6 +5417,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-19 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-19 05:35:44 +0000"
     },
     "done": true
   },

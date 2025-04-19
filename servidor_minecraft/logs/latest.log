@@ -962,3 +962,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 05:03:59.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
 [19Apr2025 05:05:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Mine? Mine? Mine?]
 [19Apr2025 05:06:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [We do a little trolling...]
+[19Apr2025 05:22:29.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 05:22:29.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: @givve/give YamadaH2O bread 64<--[HERE]
+[19Apr2025 05:39:04.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[19Apr2025 05:39:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
