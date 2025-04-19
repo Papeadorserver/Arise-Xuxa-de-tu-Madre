@@ -5077,5 +5077,17 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-04-19 07:39:11 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-04-19 07:40:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
