@@ -47,6 +47,7 @@
       "minecraft:beach": "2025-04-18 04:06:25 +0000",
       "minecraft:sparse_jungle": "2025-04-17 20:10:52 +0000",
       "minecraft:river": "2025-04-17 05:53:03 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-19 05:06:36 +0000",
       "minecraft:stony_shore": "2025-04-19 04:10:16 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:41:51 +0000",
       "minecraft:jagged_peaks": "2025-04-18 04:14:17 +0000",
@@ -5382,9 +5383,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:06:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-19 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-04-19 05:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:06:38 +0000"
     },
     "done": true
   },
