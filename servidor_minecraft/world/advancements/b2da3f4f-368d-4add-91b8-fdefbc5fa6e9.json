@@ -5338,6 +5338,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-19 04:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-19 03:48:45 +0000"
@@ -5353,6 +5359,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-19 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-19 04:00:50 +0000"
     },
     "done": true
   },
