@@ -1068,3 +1068,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 06:20:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
 [19Apr2025 06:21:16.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to YamadaH2O: que es ese logro
 [19Apr2025 06:22:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> encontre un ajolote
+[19Apr2025 07:16:51.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[19Apr2025 07:16:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
