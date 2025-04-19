@@ -955,3 +955,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Apr2025 03:38:23.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.245.170.161:60417] logged in with entity id 150 at (-1218.0778705245189, 132.0, 3167.129132150171)
 [19Apr2025 03:38:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
 [19Apr2025 03:38:26.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[19Apr2025 03:45:01.637] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[19Apr2025 03:45:05.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.79.217.172:37967] logged in with entity id 1492 at (-1767.595188250059, 72.0, 2130.326229278792)
+[19Apr2025 03:45:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[19Apr2025 03:45:17.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> weee we we
+[19Apr2025 03:45:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> estas en dc?
+[19Apr2025 03:45:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> estoy en mi base
+[19Apr2025 03:45:52.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> discord digo
+[19Apr2025 03:46:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YamadaH2O> dale pues
+[19Apr2025 03:48:55.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> tonces
