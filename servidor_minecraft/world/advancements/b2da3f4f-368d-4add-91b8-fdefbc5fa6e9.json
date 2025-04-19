@@ -47,6 +47,7 @@
       "minecraft:beach": "2025-04-18 04:06:25 +0000",
       "minecraft:sparse_jungle": "2025-04-17 20:10:52 +0000",
       "minecraft:river": "2025-04-17 05:53:03 +0000",
+      "minecraft:stony_shore": "2025-04-19 04:10:16 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:41:51 +0000",
       "minecraft:jagged_peaks": "2025-04-18 04:14:17 +0000",
       "minecraft:forest": "2025-04-17 05:40:05 +0000",
@@ -2858,7 +2859,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-04-18 00:37:46 +0000"
+      "potato": "2025-04-18 00:37:46 +0000",
+      "carrot": "2025-04-19 04:04:55 +0000"
     },
     "done": false
   },
@@ -5338,12 +5340,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-04-19 04:00:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-19 03:48:45 +0000"
@@ -5362,9 +5358,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-04-19 04:00:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-04-19 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-19 04:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-04-19 04:04:43 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-19 05:03:09 +0000"
     },
     "done": true
   },
